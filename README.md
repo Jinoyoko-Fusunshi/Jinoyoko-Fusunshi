@@ -30,11 +30,20 @@ Over the years I made experiences in the following sections of IT:
 I aqcuired from year to year knowledge in different tools, IDE's and programming languages.
 <br></br>
 
-### 🌐 Programming languages
+### 📝 Programming languages
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,html,css,js,ts,rust" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,java,go,html,css,js,ts," />
+  </a>
+</p>
+<br>
+
+### 📃 Script languages
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,powershell" />
   </a>
 </p>
 <br>
@@ -42,29 +51,40 @@ I aqcuired from year to year knowledge in different tools, IDE's and programming
 ### 🪢 Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=net,angular,react,nextjs,tailwind,mysql,postgres,sqlite,gtk" />
+    <img src="https://skillicons.dev/icons?i=net,vue,react,nextjs,tailwind,mysql,postgres,sqlite,gtk" />
   </a>
 </p>
 <br>
 
-### 🗨️ Communication, documentation and planning tools
+### 🗒️ Documentation and planning tools
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,figma,md,github,bitbucket" />
+    <img src="https://skillicons.dev/icons?i=notion,figma,md,drawio" />
+  </a>
+</p>
+<br>
+
+### Collaboration and communication
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,bitbucket,discord" />
   </a>
 </p>
 <br>
 
 ### 💾 IDE's
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,clion,webstorm,rider,Nuget" />
+    <img src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,clion,webstorm,rider,rust-rover" />
   </a>
 </p>
 <br>
 
 ### 🪛 Build and package management tools
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=net,gradle,maven,cmake,npm" />
@@ -93,7 +113,7 @@ My main daily system is linux ubuntu budgie for software development and general
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,redhat,arch,mint,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=debian,ubuntu,redhat,arch,mint,raspberrypi" />
   </a>
 </p>
 <br>
@@ -106,21 +126,25 @@ My main daily system is linux ubuntu budgie for software development and general
         <th>Main language</th>
         <th>Stars</th>
         <th>Last change</th>
+        <th>Latest version</th>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/Jinoyoko-Fusunshi/Cubenizer">
-                <img src="https://img.shields.io/badge/Cubenizer-green?style=for-the-badge" />
+            <a href="https://github.com/Jinoyoko-Fusunshi/HyprSettings">
+                <img src="https://img.shields.io/badge/HyprSettings-darkviolet?style=for-the-badge" />
             </a>
         </td>
         <td>
-            <img src="https://img.shields.io/github/languages/top/Jinoyoko-Fusunshi/Cubenizer?color=blue&style=for-the-badge" />
+            <img src="https://img.shields.io/github/languages/top/Jinoyoko-Fusunshi/HyprSettings?color=blue&style=for-the-badge" />
         </td>
         <td>
-            <img src="https://img.shields.io/github/stars/Jinoyoko-Fusunshi/Cubenizer?color=yellow&style=for-the-badge" />  
+            <img src="https://img.shields.io/github/stars/Jinoyoko-Fusunshi/HyprSettings?color=yellow&style=for-the-badge" />  
         </td>
         <td>
-            <img src="https://img.shields.io/github/last-commit/Jinoyoko-Fusunshi/Cubenizer?color=green&style=for-the-badge" />
+            <img src="https://img.shields.io/github/last-commit/Jinoyoko-Fusunshi/HyprSettings?color=green&style=for-the-badge" />
+        </td>
+        <td>
+            <img src="https://img.shields.io/github/v/release/Jinoyoko-Fusunshi/HyprSettings?color=red&style=for-the-badge" />
         </td>
     </tr>
     <tr>
@@ -138,6 +162,9 @@ My main daily system is linux ubuntu budgie for software development and general
         <td>
             <img src="https://img.shields.io/github/last-commit/Jinoyoko-Fusunshi/CodEXpander?color=green&style=for-the-badge" />
         </td>
+        <td>
+            <img src="https://img.shields.io/github/v/release/Jinoyoko-Fusunshi/CodEXpander?color=red&style=for-the-badge" />
+        </td>
     </tr>
 </table>
 <br>
@@ -149,5 +176,8 @@ My main daily system is linux ubuntu budgie for software development and general
   </a>
   <a href="https://www.instagram.com/jinoyoko/">
       <img src="https://img.shields.io/badge/instagram-Jinoyoko-white?labelColor=darkviolet&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/pascal-lyon-adam-00bb7030b/">
+      <img src="https://img.shields.io/badge/linkedin-Pascal&#8212Lyon_Adam-white?labelColor=blue&style=for-the-badge" />
   </a>
 </span>
